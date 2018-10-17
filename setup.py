@@ -13,9 +13,9 @@ setuptools.setup(
     description="Get title and main body text from an article in a web page",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/RobinZhangWhyCoding/htmltext",
     packages=setuptools.find_packages(),
-    install_requires = ['beautifulsoup4'],
+    install_requires = ['beautifulsoup4',"lxml"],
     classifiers=[
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",

@@ -1,6 +1,6 @@
-#HTMLText
+HTMLText
 =========
-htmltext is a simple tool to get main body text of articles in HTML web pages, such as news,bolg .etc.
+HTMLText is a simple tool to get main body text of articles in HTML web pages, such as news,bolg .etc.
 
 Installation:
 -------------
