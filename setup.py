@@ -7,10 +7,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="htmltext",
-    version="0.0.6",
+    version="0.0.7",
     author="Robin Zhang",
     author_email="whycoding@outlook.com",
-    description="Get title and main body text from an article in a web page",
+    description="Get title and main body text from an article in a web page\r\nBug Patched",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/RobinZhangWhyCoding/htmltext",
